@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.huancahuari.andres.lab13'
-    compileSdk 34
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.huancahuari.andres.lab13"
